@@ -1,0 +1,7 @@
+Name    : Articuno
+National Number: 144
+Hobby   : Freeze everything!
+Type    : Ice/Flying
+Species : Freeze Pokémon
+Abilities: Pressure
+Hidden Ability: Snow Cloak
