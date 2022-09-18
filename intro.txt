@@ -3,9 +3,6 @@ National Number: 144
 Hobby   : Freeze everything!
 Type    : Ice/Flying
 Species : Freeze Pokémon
-<<<<<<< HEAD
 Base friendship: 35
-=======
 Abilities: Pressure
 Hidden Ability: Snow Cloak
->>>>>>> 7b7ad70 (add abilities row)
