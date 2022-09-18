@@ -1,4 +1,5 @@
-Name: Articuno
+Name    : Articuno
 National Number: 144
-Hobby: Freeze everything!
-Type: Ice/Flying
+Hobby   : Freeze everything!
+Type    : Ice/Flying
+Species : Freeze Pokémon
